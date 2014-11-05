@@ -1,0 +1,11 @@
++Name getSportsNews
+
++Request
+GET https://wmerydith-espn.p.mashape.com/sports/news?apikey=someApiKey
++Headers
+X-Mashape-Authorization : someToken
++Body
+
++Response
++Body
+{"message":"InvalidMashapeKey"}

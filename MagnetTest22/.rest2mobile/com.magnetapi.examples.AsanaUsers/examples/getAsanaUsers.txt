@@ -1,0 +1,11 @@
++Name getAsanaUsers
+
++Request
+GET https://app.asana.com/api/1.0/users
++Headers
+Authorization : Basic 123456789CPsxsAHnQ
++Body
+
++Response
++Body
+{"data":[{"id":107979555105,"name":"JohnDoe"},{"id":3729106556,"name":"JaneSmith"}]}

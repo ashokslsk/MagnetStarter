@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="2" >
+
+    <dataSet config="main" >
+        <source path="/Users/macbook/Documents/workspaces/Android_Studio_Practices/Office Android Studio works/UserList/app/src/androidTest/assets" />
+    </dataSet>
+
+</merger>

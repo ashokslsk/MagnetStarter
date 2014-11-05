@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="HistoryComponent">
+    <option name="urls">
+      <array>
+        <option value="http://www.seismi.org/api/eqs/{yyy}/{mm}?min_magnitude=6&amp;limit=500" />
+      </array>
+    </option>
+  </component>
+</project>
+

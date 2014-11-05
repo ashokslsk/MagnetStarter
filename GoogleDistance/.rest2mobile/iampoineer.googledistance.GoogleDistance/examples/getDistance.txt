@@ -1,0 +1,10 @@
++Name getDistance
+
++Request
+GET http://maps.googleapis.com/maps/api/distancematrix/json?origins=435+Tasso+Street+Palo+Alto+CA&destinations=Embarcadero+Street+San+Francisco+CA&sensor=false&mode=driving&language=en&units=imperial%20
++Headers
++Body
+
++Response
++Body
+{"destination_addresses":["EmbarcaderoNorthStreet,SanFrancisco,CA,USA"],"origin_addresses":["435TassoStreet,PaloAlto,CA94301,USA"],"rows":[{"elements":[{"distance":{"text":"55.4km","value":55389},"duration":{"text":"45mins","value":2727},"status":"OK"}]}],"status":"OK"}
