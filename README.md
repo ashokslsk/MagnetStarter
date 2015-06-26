@@ -10,3 +10,6 @@ and you can learn things in much better way try this.
 
 **LINK FOR MORE INFO**
 https://developers.magnet.com/
+
+**Link For Documentation**
+https://www.magnet.com/developer/rest2mobile/setup-for-android/
